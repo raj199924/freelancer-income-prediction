@@ -9,7 +9,7 @@ Freelancers often track multiple metrics such as hours worked, project complexit
 - Python
 - Pandas, NumPy
 - Scikit-learn
-- XGBoost
+- Gradient Boosting
 - Matplotlib, Seaborn
 - Jupyter Notebooks
 - Joblib (for model saving)
